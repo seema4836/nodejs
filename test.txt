@@ -1,0 +1,1 @@
+This i an example of writefile
